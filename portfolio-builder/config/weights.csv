@@ -1,0 +1,11 @@
+factor_code,weight
+pct_from_expected_price,0.12
+pct_above_5y_avg_yield,0.12
+pe_vs_5y_avg,0.1
+div_growth_latest,0.1
+div_growth_5y,0.1
+div_growth_10y,0.1
+div_growth_streak_years,0.08
+uninterrupted_dividend_streak_years,0.08
+recession_dividend,0.1
+recession_return,0.1

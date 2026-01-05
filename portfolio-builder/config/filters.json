@@ -1,0 +1,26 @@
+{
+  "allowed_Strct": [
+    "CCrp",
+    "MLP",
+    "REIT"
+  ],
+  "allowed_GICS": ["Comm","Cdisc","Cstap","Enrgy","Fnncls","Hlthcr","Indstr","IT","Mtrls","RealEst","Utlts"],
+  "min_Dividend_Grade": 60,
+  "Dividend_Yield_range": [
+    0.0,
+    100.0
+  ],
+  "min_Price": 10.0,
+  "min_Market_Cap_Millions": 1000.0,
+  "allowed_Payment_Frequency": [
+    "monthly",
+    "quarterly",
+    "annually"
+  ],
+  "allowed_Valuation": [
+    "Appears speculative",
+    "May be undervalued",
+    "Reasonably valued",
+    "Could be overvalued"
+  ]
+}

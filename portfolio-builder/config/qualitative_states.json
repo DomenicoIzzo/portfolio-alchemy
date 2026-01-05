@@ -1,0 +1,14 @@
+{
+  "RecessionDividend_order": {
+    "Increased": 3,
+    "Maintained": 2,
+    "Mantained": 2,
+    "Cut": 1
+  },
+  "Valuation_allowed": [
+    "Appears speculative",
+    "May be undervalued",
+    "Reasonably valued",
+    "Could be overvalued"
+  ]
+}
