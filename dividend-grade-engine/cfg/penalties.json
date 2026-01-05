@@ -1,0 +1,74 @@
+{
+  "CFPR": {
+    "type": "max",
+    "soft_buffer": 0.15,
+    "hard_limit": 0.35,
+    "penalty_slope": 0.6,
+    "max_penalty": 25,
+    "bonus": 0
+  },
+  "FCFPR": {
+    "type": "max",
+    "soft_buffer": 0.15,
+    "hard_limit": 0.35,
+    "penalty_slope": 0.6,
+    "max_penalty": 25,
+    "bonus": 0
+  },
+  "ROE": {
+    "type": "min",
+    "soft_buffer": 0.02,
+    "hard_limit": 0.08,
+    "penalty_slope": 0.8,
+    "max_penalty": 25,
+    "bonus": 5
+  },
+  "ROIC": {
+    "type": "min",
+    "soft_buffer": 0.02,
+    "hard_limit": 0.07,
+    "penalty_slope": 0.9,
+    "max_penalty": 30,
+    "bonus": 7
+  },
+  "OpM": {
+    "type": "min",
+    "soft_buffer": 0.02,
+    "hard_limit": 0.06,
+    "penalty_slope": 0.7,
+    "max_penalty": 20,
+    "bonus": 4
+  },
+  "FCFM": {
+    "type": "min",
+    "soft_buffer": 0.02,
+    "hard_limit": 0.06,
+    "penalty_slope": 0.7,
+    "max_penalty": 20,
+    "bonus": 4
+  },
+  "NDtE": {
+    "type": "max",
+    "soft_buffer": 0.15,
+    "hard_limit": 0.5,
+    "penalty_slope": 0.9,
+    "max_penalty": 30,
+    "bonus": 3
+  },
+  "NDtC": {
+    "type": "max",
+    "soft_buffer": 0.1,
+    "hard_limit": 0.3,
+    "penalty_slope": 1.0,
+    "max_penalty": 30,
+    "bonus": 2
+  },
+  "IC": {
+    "type": "min",
+    "soft_buffer": 1.0,
+    "hard_limit": 3.0,
+    "penalty_slope": 1.1,
+    "max_penalty": 35,
+    "bonus": 3
+  }
+}

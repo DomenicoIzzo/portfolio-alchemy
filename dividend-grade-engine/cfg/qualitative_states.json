@@ -1,0 +1,40 @@
+{
+  "CFPS": [
+    "strong_up",
+    "steady_up",
+    "flat",
+    "decl",
+    "v_decl"
+  ],
+  "FCFPS": [
+    "strong_up",
+    "steady_up",
+    "flat",
+    "decl",
+    "v_decl"
+  ],
+  "CFg": [
+    "strong_up",
+    "mod",
+    "flat",
+    "decl"
+  ],
+  "Salesg": [
+    "strong_up",
+    "mod",
+    "flat",
+    "decl"
+  ],
+  "ShrOut": [
+    "v_decl",
+    "decl",
+    "flat",
+    "vol",
+    "strong_up"
+  ],
+  "TtSales": [
+    "rising",
+    "flat",
+    "declining"
+  ]
+}

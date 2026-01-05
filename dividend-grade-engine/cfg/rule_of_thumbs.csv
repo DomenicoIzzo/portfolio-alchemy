@@ -1,0 +1,56 @@
+Strct;GICS;Sub-sector;CFPR;FCFPR;CFPS;FCFPS;CFg;Salesg;ShrOut;TtSales;ROE;ROIC;OpM;FCFM;NDtE;NDtC;IC
+CCrp;Cdisc;Automakers;<40%;<40%;steady_up;steady_up;mod;mod;decl;rising;>10%;>7%;>6%;>5%;<2.5;<0.50;>8
+CCrp;Cdisc;Consumer Retails;<40%;<40%;steady_up;steady_up;mod;mod;decl;rising;>22%;>17%;>10%;>6%;<3.0;<0.50;>10
+CCrp;Cdisc;HotelsCruise Liners;<40%;<40%;steady_up;steady_up;mod;mod;decl;rising;>12%;>10%;>15%;>5%;<2.5;<0.40;>8
+CCrp;Cdisc;Mixed Cnsm Bsnss;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;Cdisc;Restaurants;<50%;<50%;steady_up;steady_up;mod;mod;decl;rising;>16%;>12%;>16%;>5%;<3.5;<0.40;>8
+CCrp;Cdisc;General;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;Comm;Telecom;<70%;<70%;steady_up;steady_up;mod;mod;decl;rising;>11%;>9%;>14%;>7%;<3.5;<0.60;>4
+CCrp;Comm;General;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;Cstap;Tobacco;<85%;<85%;steady_up;steady_up;mod;mod;decl;rising;>20%;>15%;>25%;>20%;<3.0;<0.50;>8
+CCrp;Cstap;General;<70%;<70%;steady_up;steady_up;mod;mod;decl;rising;>15%;>12%;>16%;>7%;<4.0;<0.65;>8
+CCrp;Enrgy;Coal/CFuels/Mids;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;Enrgy;Oil Equip Provdrs;<40%;<40%;steady_up;steady_up;mod;mod;decl;rising;>12%;>10%;>15%;>5%;<2.5;<0.35;>6
+CCrp;Enrgy;Oil Producers;<40%;<40%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<1.5;<0.30;>10
+CCrp;Enrgy;Pipelines;<70%;n.m.;steady_up;n.m.;mod;mod;decl;rising;mid_teens;stable_above_avg;stable_high;n.m.;<4.5;<0.50;>2
+CCrp;Enrgy;Refiners;<40%;<40%;steady_up;steady_up;mod;mod;decl;rising;>12%;>10%;>5%;>4%;<2.0;<0.40;>8
+CCrp;Enrgy;General;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;Fnncls;Asset Managers;<50%;<50%;steady_up;steady_up;mod;mod;decl;rising;>25%;>25%;>25%;>20%;<1.5;<0.20;>10
+CCrp;Fnncls;Banks;<40%;n.m.;steady_up;n.m.;mod;mod;decl;rising;>9%;>8%;n.m.;n.m.;n.m.;n.m.;n.m.
+CCrp;Fnncls;BDCs;<95%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;>10%;>8%;n.m.;n.m.;n.m.;<0.40;>3.5
+CCrp;Fnncls;Insurers;<50%;n.m.;steady_up;n.m.;mod;mod;decl;rising;>10%;>8%;>15%;n.m.;<2.5;<0.20;>8
+CCrp;Fnncls;Mixed Financials;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;Fnncls;Mortgage REITs;<95%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;>5%;n.m.;n.m.;n.m.;n.m.;<0.80;n.m.
+CCrp;Hlthcr;Biotech;<50%;<50%;steady_up;steady_up;mod;mod;decl;rising;>25%;>25%;>25%;>20%;<1.5;<0.20;>8
+CCrp;Hlthcr;Distributors;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>12%;>10%;>2%;>2%;<2.0;<0.30;>10
+CCrp;Hlthcr;General;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;Indstr;Heavy Equipment;<40%;<40%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;Indstr;General;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;IT;Semiconductors;<50%;<50%;steady_up;steady_up;mod;mod;decl;rising;>15%;>12%;>16%;>5%;<1.5;<0.40;>8
+CCrp;IT;General;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;Mtrls;Chemical Prods;<40%;<40%;steady_up;steady_up;mod;mod;decl;rising;>15%;>12%;>15%;>5%;<2.5;<0.50;>6
+CCrp;Mtrls;Construction mtrls;<40%;<40%;steady_up;steady_up;mod;mod;decl;rising;>12%;>10%;>15%;>5%;<3.0;<0.50;>6
+CCrp;Mtrls;Gases/conts/specs;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;Mtrls;Mining Companies;<40%;<40%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<1.5;<0.40;>8
+CCrp;Mtrls;Paper Pckg Prods;<50%;<50%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.50;>8
+CCrp;Mtrls;Steelmakers;<40%;<40%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>7%;>5%;<2.0;<0.40;>6
+CCrp;Mtrls;General;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;RealEst;Divers RlEstt Acts;<60%;<60%;steady_up;steady_up;mod;mod;decl;rising;>10%;>8%;>12%;>5%;<3.0;<0.40;>8
+CCrp;Utlts;Power Producers;<60%;n.m.;steady_up;n.m.;mod;mod;decl;rising;>10%;>8%;>12%;n.m.;<3.0;<0.40;>8
+CCrp;Utlts;YieldCos & Rnwbl;<90%;n.m.;steady_up;n.m.;mod;mod;decl;rising;>8%;>6%;>15%;>5%;<4.5;<0.60;>2.5
+CCrp;Utlts;General;<75%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;>9%;>7%;>18%;n.m.;<5.5;<0.60;>3
+MLP;Enrgy;Coal and C Fuels;<90%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<4.5;<0.60;>2.5
+MLP;Enrgy;Midstream Serv;<90%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<4.5;<0.60;>2.5
+MLP;Enrgy;Oil and Gas Prod;<90%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<4.5;<0.60;>2.5
+MLP;Enrgy;Oil,Gas Equip Serv;<90%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<4.5;<0.60;>2.5
+MLP;Enrgy;Oil,Gas Ref M'ting;<90%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<4.5;<0.60;>2.5
+MLP;Fnncls;Real Estate Fin'ing;<90%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<4.5;<0.60;>2.5
+MLP;Mtrls;CommodityChmcls;<90%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<4.5;<0.60;>2.5
+MLP;Utlts;Gas Utilities;<90%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<4.5;<0.60;>2.5
+MLP;Utlts;Multi-Utilities;<90%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<4.5;<0.60;>2.5
+REIT;RealEst;Hotel;<75%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<3.5;<0.40;>3
+REIT;RealEst;Industrial REITs;<75%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<5.0;<0.50;>2
+REIT;RealEst;Mall;<75%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<5.5;<0.50;>2
+REIT;RealEst;Medical Building;<95%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<6.0;<0.50;>2
+REIT;RealEst;Senior Living;<80%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<4.5;<0.50;>2
+REIT;RealEst;General;<90%;n.m.;steady_up;n.m.;mod;mod;n.m.;rising;mid_teens;stable_above_avg;stable_high;n.m.;<5.5;<0.50;>2

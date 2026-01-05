@@ -1,0 +1,9 @@
+Strct,GICS,Sub-sector,Symbol,Name,CFPR,FCFPR,CFPS,FCFPS,CFg,Salesg,ShrOut,TotSales,ROE,ROIC,OpM,FCFM,NDtE,NDtC,IC
+CCrp,Enrgy,Oil Producers,VTS,Vitesse Energy,643%,156%,v_decl,steady_up,decl,steady_up,decl,rising,4%,3%,15%,18%,0.66,0.14,3.58
+CCrp,Enrgy,Oil Producers,EOG,EOG Resources,43%,48%,decl,steady_up,flat,decl,decl,rising,18%,12%,32%,17%,0.34,0.13,34.50
+CCrp,Enrgy,Oil Producers,COP,ConocoPhillips,60%,62%,decl,flat,decl,steady_up,decl,rising,15%,11%,23%,12%,0.72,0.21,16.70
+CCrp,Comm,Telecom,TMUS,T-Mobile,38%,25%,steady_up,strong_up,mod,mod,decl,rising,19%,8%,23%,16%,2.83,0.66,5.46
+CCrp,Comm,Telecom,TDS,Telephone and Data Systems,45%,17%,flat,flat,flat,mod,flat,declining,3%,2%,3%,-4%,0.57,0.08,0.55
+CCrp,Comm,Telecom,SPOK,Spok,156%,110%,flat,flat,decl,flat,flat,declining,11%,10%,15%,17%,0.00,0.00,100.00
+CCrp,Comm,,GOOG,Alphabet,8%,14%,strong_up,steady_up,mod,strong_up,decl,rising,35%,23%,33%,19%,0.00,0.00,256.00
+CCrp,Comm,,CCOI,Cogent Communications Holdings,-2%,-33%,v_decl,decl,decl,decl,flat,flat,-137%,-3%,-14%,-21%,5.96,0.00,-0.81

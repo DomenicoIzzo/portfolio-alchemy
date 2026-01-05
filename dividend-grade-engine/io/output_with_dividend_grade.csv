@@ -1,0 +1,121 @@
+Strct,GICS,Sub-sector,Symbol,Name,CFPR,FCFPR,CFPS,FCFPS,CFg,Salesg,ShrOut,TotSales,ROE,ROIC,OpM,FCFM,NDtE,NDtC,IC,Dividend_Safety,Dividend_Safety_Explanation
+CCrp,Enrgy,Oil Producers,VTS,Vitesse Energy,643%,156%,v_decl,steady_up,decl,steady_up,decl,rising,4%,3%,15%,18%,0.66,0.14,3.58,11.7,"[CFPR] value=643%, rule=<40%, penalty=25, bonus=0, score=0.00/20
+[FCFPR] value=156%, rule=<40%, penalty=25, bonus=0, score=0.00/20
+[CFPS] value='v_decl', desired='steady_up', score=3.00/3
+[FCFPS] value='steady_up', desired='steady_up', score=3.00/3
+[CFg] value='decl', desired='mod', score=3.00/3
+[Salesg] value='steady_up', desired='mod', score=0.00/3
+[ShrOut] value='decl', desired='decl', score=3.00/3
+[TtSales] value='None', desired='rising', score=0.00/3
+[ROE] value=4%, rule=>10%, penalty=21.25, bonus=0.0, score=0.00/7
+[ROIC] value=3%, rule=>8%, penalty=25.5, bonus=0.0, score=0.00/7
+[OpM] value=15%, rule=>12%, penalty=0.0, bonus=4, score=7.20/6
+[FCFM] value=18%, rule=>5%, penalty=0.0, bonus=4, score=7.20/6
+[NDtE] value=0.66, rule=<1.5, penalty=0.0, bonus=3, score=6.00/5
+[NDtC] value=0.14, rule=<0.30, penalty=0.0, bonus=2, score=6.00/5
+[IC] value=3.58, rule=>10, penalty=35, bonus=0.0, score=0.00/7"
+CCrp,Enrgy,Oil Producers,EOG,EOG Resources,43%,48%,decl,steady_up,flat,decl,decl,rising,18%,12%,32%,17%,0.34,0.13,34.5,97.7,"[CFPR] value=43%, rule=<40%, penalty=1.58, bonus=0.0, score=18.42/20
+[FCFPR] value=48%, rule=<40%, penalty=6.22, bonus=0.0, score=13.78/20
+[CFPS] value='decl', desired='steady_up', score=3.00/3
+[FCFPS] value='steady_up', desired='steady_up', score=3.00/3
+[CFg] value='flat', desired='mod', score=3.00/3
+[Salesg] value='decl', desired='mod', score=3.00/3
+[ShrOut] value='decl', desired='decl', score=3.00/3
+[TtSales] value='None', desired='rising', score=0.00/3
+[ROE] value=18%, rule=>10%, penalty=0.0, bonus=5, score=8.40/7
+[ROIC] value=12%, rule=>8%, penalty=0.0, bonus=7, score=8.40/7
+[OpM] value=32%, rule=>12%, penalty=0.0, bonus=4, score=7.20/6
+[FCFM] value=17%, rule=>5%, penalty=0.0, bonus=4, score=7.20/6
+[NDtE] value=0.34, rule=<1.5, penalty=0.0, bonus=3, score=6.00/5
+[NDtC] value=0.13, rule=<0.30, penalty=0.0, bonus=2, score=6.00/5
+[IC] value=34.5, rule=>10, penalty=0.0, bonus=3, score=8.40/7"
+CCrp,Enrgy,Oil Producers,COP,ConocoPhillips,60%,62%,decl,flat,decl,steady_up,decl,rising,15%,11%,23%,12%,0.72,0.21,16.7,51.9,"[CFPR] value=60%, rule=<40%, penalty=21.25, bonus=0.0, score=0.00/20
+[FCFPR] value=62%, rule=<40%, penalty=21.25, bonus=0.0, score=0.00/20
+[CFPS] value='decl', desired='steady_up', score=3.00/3
+[FCFPS] value='flat', desired='steady_up', score=3.00/3
+[CFg] value='decl', desired='mod', score=3.00/3
+[Salesg] value='steady_up', desired='mod', score=0.00/3
+[ShrOut] value='decl', desired='decl', score=3.00/3
+[TtSales] value='None', desired='rising', score=0.00/3
+[ROE] value=15%, rule=>10%, penalty=0.0, bonus=5, score=8.40/7
+[ROIC] value=11%, rule=>8%, penalty=0.0, bonus=7, score=8.40/7
+[OpM] value=23%, rule=>12%, penalty=0.0, bonus=4, score=7.20/6
+[FCFM] value=12%, rule=>5%, penalty=0.0, bonus=4, score=7.20/6
+[NDtE] value=0.72, rule=<1.5, penalty=0.0, bonus=3, score=6.00/5
+[NDtC] value=0.21, rule=<0.30, penalty=0.0, bonus=2, score=6.00/5
+[IC] value=16.7, rule=>10, penalty=0.0, bonus=3, score=8.40/7"
+CCrp,Comm,Telecom,TMUS,T-Mobile,38%,25%,steady_up,strong_up,mod,mod,decl,rising,19%,8%,23%,16%,2.83,0.66,5.46,86.9,"[CFPR] value=38%, rule=<70%, penalty=0.0, bonus=0, score=10.00/10
+[FCFPR] value=25%, rule=<70%, penalty=0.0, bonus=0, score=10.00/10
+[CFPS] value='steady_up', desired='steady_up', score=2.00/2
+[FCFPS] value='strong_up', desired='steady_up', score=1.20/2
+[CFg] value='mod', desired='mod', score=2.00/2
+[Salesg] value='mod', desired='mod', score=2.00/2
+[ShrOut] value='decl', desired='decl', score=2.00/2
+[TtSales] value='None', desired='rising', score=0.00/2
+[ROE] value=19%, rule=>11%, penalty=0.0, bonus=5, score=9.60/8
+[ROIC] value=8%, rule=>9%, penalty=10.23, bonus=0.0, score=0.00/8
+[OpM] value=23%, rule=>14%, penalty=0.0, bonus=4, score=9.60/8
+[FCFM] value=16%, rule=>7%, penalty=0.0, bonus=4, score=9.60/8
+[NDtE] value=2.83, rule=<3.5, penalty=0.0, bonus=3, score=10.80/9
+[NDtC] value=0.66, rule=<0.60, penalty=14.67, bonus=0.0, score=0.00/9
+[IC] value=5.46, rule=>4, penalty=0.0, bonus=3, score=10.80/9"
+CCrp,Comm,Telecom,TDS,Telephone and Data Systems,45%,17%,flat,flat,flat,mod,flat,declining,3%,2%,3%,-4%,0.57,0.08,0.55,54.2,"[CFPR] value=45%, rule=<70%, penalty=0.0, bonus=0, score=10.00/10
+[FCFPR] value=17%, rule=<70%, penalty=0.0, bonus=0, score=10.00/10
+[CFPS] value='flat', desired='steady_up', score=2.00/2
+[FCFPS] value='flat', desired='steady_up', score=2.00/2
+[CFg] value='flat', desired='mod', score=2.00/2
+[Salesg] value='mod', desired='mod', score=2.00/2
+[ShrOut] value='flat', desired='decl', score=1.20/2
+[TtSales] value='None', desired='rising', score=0.00/2
+[ROE] value=3%, rule=>11%, penalty=21.25, bonus=0.0, score=0.00/8
+[ROIC] value=2%, rule=>9%, penalty=25.5, bonus=0.0, score=0.00/8
+[OpM] value=3%, rule=>14%, penalty=20, bonus=0.0, score=0.00/8
+[FCFM] value=-4%, rule=>7%, penalty=20, bonus=0.0, score=0.00/8
+[NDtE] value=0.57, rule=<3.5, penalty=0.0, bonus=3, score=10.80/9
+[NDtC] value=0.08, rule=<0.60, penalty=0.0, bonus=2, score=10.80/9
+[IC] value=0.55, rule=>4, penalty=35, bonus=0.0, score=0.00/9"
+CCrp,Comm,Telecom,SPOK,Spok,156%,110%,flat,flat,decl,flat,flat,declining,11%,10%,15%,17%,0.0,0.0,100.0,33.4,"[CFPR] value=156%, rule=<70%, penalty=25, bonus=0, score=0.00/10
+[FCFPR] value=110%, rule=<70%, penalty=25, bonus=0.0, score=0.00/10
+[CFPS] value='flat', desired='steady_up', score=2.00/2
+[FCFPS] value='flat', desired='steady_up', score=2.00/2
+[CFg] value='decl', desired='mod', score=2.00/2
+[Salesg] value='flat', desired='mod', score=2.00/2
+[ShrOut] value='flat', desired='decl', score=1.20/2
+[TtSales] value='None', desired='rising', score=0.00/2
+[ROE] value=11%, rule=>11%, penalty=0.0, bonus=5, score=9.60/8
+[ROIC] value=10%, rule=>9%, penalty=0.0, bonus=7, score=9.60/8
+[OpM] value=15%, rule=>14%, penalty=0.0, bonus=4, score=9.60/8
+[FCFM] value=17%, rule=>7%, penalty=0.0, bonus=4, score=9.60/8
+[NDtE] value=0.0, rule=<3.5, penalty=0.0, bonus=3, score=10.80/9
+[NDtC] value=0.0, rule=<0.60, penalty=0.0, bonus=2, score=10.80/9
+[IC] value=100.0, rule=>4, penalty=0.0, bonus=3, score=10.80/9"
+CCrp,Comm,,GOOG,Alphabet,8%,14%,strong_up,steady_up,mod,strong_up,decl,rising,35%,23%,33%,19%,0.0,0.0,256.0,100.0,"[CFPR] value=8%, rule=<60%, penalty=0.0, bonus=0, score=15.00/15
+[FCFPR] value=14%, rule=<60%, penalty=0.0, bonus=0, score=15.00/15
+[CFPS] value='strong_up', desired='steady_up', score=1.20/2
+[FCFPS] value='steady_up', desired='steady_up', score=2.00/2
+[CFg] value='mod', desired='mod', score=2.00/2
+[Salesg] value='strong_up', desired='mod', score=1.20/2
+[ShrOut] value='decl', desired='decl', score=2.00/2
+[TtSales] value='None', desired='rising', score=0.00/2
+[ROE] value=35%, rule=>10%, penalty=0.0, bonus=5, score=10.80/9
+[ROIC] value=23%, rule=>8%, penalty=0.0, bonus=7, score=10.80/9
+[OpM] value=33%, rule=>12%, penalty=0.0, bonus=4, score=9.60/8
+[FCFM] value=19%, rule=>5%, penalty=0.0, bonus=4, score=9.60/8
+[NDtE] value=0.0, rule=<3.0, penalty=0.0, bonus=3, score=9.60/8
+[NDtC] value=0.0, rule=<0.40, penalty=0.0, bonus=2, score=9.60/8
+[IC] value=256.0, rule=>8, penalty=0.0, bonus=3, score=9.60/8"
+CCrp,Comm,,CCOI,Cogent Communications Holdings,-2%,-33%,v_decl,decl,decl,decl,flat,flat,-137%,-3%,-14%,-21%,5.96,0.0,-0.81,47.1,"[CFPR] value=-2%, rule=<60%, penalty=0.0, bonus=0, score=15.00/15
+[FCFPR] value=-33%, rule=<60%, penalty=0.0, bonus=0, score=15.00/15
+[CFPS] value='v_decl', desired='steady_up', score=2.00/2
+[FCFPS] value='decl', desired='steady_up', score=2.00/2
+[CFg] value='decl', desired='mod', score=2.00/2
+[Salesg] value='decl', desired='mod', score=2.00/2
+[ShrOut] value='flat', desired='decl', score=1.20/2
+[TtSales] value='None', desired='rising', score=0.00/2
+[ROE] value=-137%, rule=>10%, penalty=25, bonus=0.0, score=0.00/9
+[ROIC] value=-3%, rule=>8%, penalty=30, bonus=0.0, score=0.00/9
+[OpM] value=-14%, rule=>12%, penalty=20, bonus=0.0, score=0.00/8
+[FCFM] value=-21%, rule=>5%, penalty=20, bonus=0.0, score=0.00/8
+[NDtE] value=5.96, rule=<3.0, penalty=30, bonus=0.0, score=0.00/8
+[NDtC] value=0.0, rule=<0.40, penalty=0.0, bonus=2, score=9.60/8
+[IC] value=-0.81, rule=>8, penalty=35, bonus=0.0, score=0.00/8"
